@@ -4,8 +4,8 @@ Plugin Name: ACF: Relationship Network Posts
 Plugin URI: https://github.com/shafaat/acf-network-relationship
 Description: Posts / Pages / Any Post Type from Multisite WP Network. This plugin needs the installation/activation of Advanced Custom Fields V5.
 Version: 1.1.02 (>= ACF 5.2.7)
-Author: Thomas Meyer
-Author URI: www.dreihochzwo.de
+Author: Shafayat Ali
+Author URI: https://facebook.com/shafaat.syed
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
